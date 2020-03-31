@@ -1,0 +1,17 @@
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\bin\Debug\netcoreapp2.1\EnviosAliExpressUTest.deps.json
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\bin\Debug\netcoreapp2.1\EnviosAliExpressUTest.runtimeconfig.json
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\bin\Debug\netcoreapp2.1\EnviosAliExpressUTest.runtimeconfig.dev.json
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\bin\Debug\netcoreapp2.1\EnviosAliExpressUTest.dll
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\bin\Debug\netcoreapp2.1\EnviosAliExpressUTest.pdb
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\bin\Debug\netcoreapp2.1\EnviosAliExpressCore.dll
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\bin\Debug\netcoreapp2.1\EnviosAliExpressCore.pdb
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\obj\Debug\netcoreapp2.1\EnviosAliExpressUTest.csprojAssemblyReference.cache
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\obj\Debug\netcoreapp2.1\EnviosAliExpressUTest.csproj.CoreCompileInputs.cache
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\obj\Debug\netcoreapp2.1\EnviosAliExpressUTest.AssemblyInfoInputs.cache
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\obj\Debug\netcoreapp2.1\EnviosAliExpressUTest.AssemblyInfo.cs
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\obj\Debug\netcoreapp2.1\EnviosAliExpressUTest.csproj.CopyComplete
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\obj\Debug\netcoreapp2.1\EnviosAliExpressUTest.dll
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressUTest\obj\Debug\netcoreapp2.1\EnviosAliExpressUTest.pdb

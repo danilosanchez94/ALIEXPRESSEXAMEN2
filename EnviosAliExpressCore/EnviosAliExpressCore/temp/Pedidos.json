@@ -1,0 +1,50 @@
+[
+  	{
+  		"Procedencia": "Ticul",
+  		"Destino": "Motul",
+  		"Dist_KM": 80,
+  		"Empresa": "Estafeta",
+  		"MedioTrans": "Terrestre",
+  		"FechaPedido": "23-01-2020 12:00:00"
+  	},
+  	{
+  		"Procedencia": "China",
+  		"Destino": "Cancún",
+  		"Dist_KM": 446400,
+  		"Empresa": "DHL",
+  		"MedioTrans": "Aereo",
+  		"FechaPedido": "23-01-2020 08:00:00"
+  	},
+  	{
+  		"Procedencia": "Mérida",
+  		"Destino": "Cozumel",
+  		"Dist_KM": 400,
+  		"Empresa": "DHL",
+  		"MedioTrans": "Aereo",
+  		"FechaPedido": "23-01-2020 13:50:00"
+  	},
+  	{
+  		"Procedencia": "Cozumel",
+  		"Destino": "Playa del Carmen",
+  		"Dist_KM": 1104,
+  		"Empresa": "DHL",
+  		"MedioTrans": "Maritimo",
+  		"FechaPedido": "21-01-2020"
+  	},
+  	{
+  		"Procedencia": "Cozumel",
+  		"Destino": "Playa del Carmen",
+  		"Dist_KM": 1104,
+  		"Empresa": "DHL",
+  		"MedioTrans": "Terrestre",
+  		"FechaPedido": "21-01-2020"
+  	},
+  	{
+  		"Procedencia": "Cozumel",
+  		"Destino": "Playa del Carmen",
+  		"Dist_KM": 1104,
+  		"Empresa": "Paqueteria Patito",
+  		"MedioTrans": "Terrestre",
+  		"FechaPedido": "21-01-2020"
+  	}
+  ]

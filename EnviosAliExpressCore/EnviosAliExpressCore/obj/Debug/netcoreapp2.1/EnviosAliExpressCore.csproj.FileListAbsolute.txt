@@ -1,0 +1,14 @@
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\obj\Debug\netcoreapp2.1\EnviosAliExpressCore.csproj.CoreCompileInputs.cache
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\obj\Debug\netcoreapp2.1\EnviosAliExpressCore.AssemblyInfoInputs.cache
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\obj\Debug\netcoreapp2.1\EnviosAliExpressCore.AssemblyInfo.cs
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\bin\Debug\netcoreapp2.1\EnviosAliExpressCore.deps.json
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\bin\Debug\netcoreapp2.1\EnviosAliExpressCore.runtimeconfig.json
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\bin\Debug\netcoreapp2.1\EnviosAliExpressCore.runtimeconfig.dev.json
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\bin\Debug\netcoreapp2.1\EnviosAliExpressCore.dll
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\bin\Debug\netcoreapp2.1\EnviosAliExpressCore.pdb
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\obj\Debug\netcoreapp2.1\EnviosAliExpressCore.dll
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\obj\Debug\netcoreapp2.1\EnviosAliExpressCore.pdb
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\obj\Debug\netcoreapp2.1\EnviosAliExpressCore.csprojAssemblyReference.cache
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\bot\ALIEXPRESS\EnviosAliExpressCore\EnviosAliExpressCore\obj\Debug\netcoreapp2.1\EnviosAliExpressCore.csproj.CopyComplete

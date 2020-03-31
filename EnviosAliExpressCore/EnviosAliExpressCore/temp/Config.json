@@ -1,0 +1,299 @@
+[
+  {
+    "Temporadas": [
+      {
+        "Temporada": "PRIMAVERA",
+        "Inicio": "21-03-2020",
+        "Fin": "20-06-2020"
+      },
+      {
+        "ID": 2,
+        "Temporada": "VERANO",
+        "Inicio": "21-06-2020",
+        "Fin": "20-09-2020"
+      },
+      {
+        "ID": 3,
+        "Temporada": "OTOÑO",
+        "Inicio": "21-09-2020",
+        "Fin": "20-12-2020"
+      },
+      {
+        "ID": 4,
+        "Temporada": "INVIERNO",
+        "Inicio": "21-12-2019",
+        "Fin": "20-03-2020"
+      }
+    ],
+    "MediosTransporte": [
+      {
+        "Medio": "Maritimo",
+        "Velocidad": 46,
+        "CostoPorKilometro": [
+          {
+            "rango": 1,
+            "inicio": 1,
+            "fin": 100,
+            "costo": 1
+          },
+          {
+            "rango": 2,
+            "inicio": 101,
+            "fin": 1000,
+            "costo": 0.5
+          },
+          {
+            "rango": 3,
+            "inicio": 1001,
+            "fin": 99999,
+            "costo": 0.3
+          }
+        ],
+        "VelocidadPorTemporada": {
+          "Aplicar": true,
+          "Variaciones": [
+            {
+              "Temporada": "VERANO",
+              "PorcentajeExtra": -10
+            },
+            {
+              "Temporada": "OTOÑO",
+              "PorcentajeExtra": 15
+            },
+            {
+              "Temporada": "INVIERNO",
+              "PorcentajeExtra": -30
+            }
+          ]
+        },
+        "CostoAdicionalPorTemporada": {
+          "Aplicar": true,
+          "Variaciones": [
+            {
+              "Temporada": "VERANO",
+              "Porcentaje": 10
+            },
+            {
+              "Temporada": "OTOÑO",
+              "Porcentaje": 15
+            },
+            {
+              "Temporada": "INVIERNO",
+              "Porcentaje": 23
+            }
+          ]
+        },
+        "RetrasoPorDiaPorTemporada": { "Aplicar": false },
+        "RetrasoPorDistancia": { "Aplicar": false },
+        "CostoExtraPorDistancia": { "Aplicar": false }
+      },
+      {
+        "Medio": "Terrestre",
+        "Velocidad": 80,
+        "CostoPorKilometro": [
+          {
+            "rango": 1,
+            "inicio": 1,
+            "fin": 50,
+            "costo": 15
+          },
+          {
+            "rango": 2,
+            "inicio": 51,
+            "fin": 200,
+            "costo": 10
+          },
+          {
+            "rango": 3,
+            "inicio": 201,
+            "fin": 300,
+            "costo": 8
+          },
+          {
+            "rango": 4,
+            "inicio": 301,
+            "fin": 99999,
+            "costo": 7
+          }
+        ],
+        "VelocidadPorTemporada": {
+          "Aplicar": false
+        },
+        "CostoAdicionalPorTemporada": { "Aplicar": false },
+        "RetrasoPorDiaPorTemporada": {
+          "Aplicar": true,
+          "TiemposRetraso": [
+            {
+              "Temporada": "PRIMAVERA",
+              "Tiempo": 4
+            },
+            {
+              "Temporada": "VERANO",
+              "Tiempo": 6
+            },
+            {
+              "Temporada": "OTOÑO",
+              "Tiempo": 5
+            },
+            {
+              "Temporada": "INVIERNO",
+              "Tiempo": 8
+            }
+          ]
+        },
+        "RetrasoPorDistancia": { "Aplicar": false },
+        "CostoExtraPorDistancia": { "Aplicar": false }
+      },
+      {
+        "Medio": "Aereo",
+        "Velocidad": 800,
+        "CostoPorKilometro": [
+          {
+            "rango": 1,
+            "inicio": 1,
+            "fin": 99999,
+            "costo": 10
+          }
+        ],
+
+        "VelocidadPorTemporada": { "Aplicar": false },
+        "CostoAdicionalPorTemporada": { "Aplicar": false },
+        "RetrasoPorDiaPorTemporada": { "Aplicar": false },
+        "RetrasoPorDistancia": {
+          "Aplicar": true,
+          "DistanciaKM": 1000,
+          "Tiempo": 6
+        },
+        "CostoExtraPorDistancia": {
+          "Aplicar": true,
+          "DistanciaKM": 1000,
+          "Costo": 200
+        }
+      }
+    ]
+  },
+  {
+    "Periodos": [
+      {
+        "Periodo": "MESES_PARES",
+        "Dias": [],
+        "Meses": [ "febrero", "abril", "junio", "agosto", "octubre", "diciembre" ]
+      },
+      {
+        "Periodo": "MESES_IMPARES",
+        "Dias": [],
+        "Meses": [ "enero", "marzo", "mayo", "julio", "septiembre", "noviembre" ]
+      },
+      {
+        "Periodo": "SEMESTRE_1",
+        "Dias": [],
+        "Meses": [ "enero", "febrero", "marzo", "abril", "mayo", "junio" ]
+      },
+      {
+        "Periodo": "SEMESTRE_2",
+        "Dias": [],
+        "Meses": [ "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre" ]
+      },
+      {
+        "Periodo": "TEMPORADA_BAJA",
+        "Dias": ["14-Febrero"],
+        "Meses": []
+      },
+      {
+        "Periodo": "TEMPORADA_ALTA",
+        "Dias": [],
+        "Meses": ["diciembre"]
+      },
+      {
+        "Periodo": "GENERAL",
+        "Dias": [],
+        "Meses": [ "enero", "bebrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre" ]
+      }
+    ]
+  },
+  {
+    "Paqueterias": [
+      {
+        "Paqueteria": "Fedex",
+        "MargenUtilidad": [
+          {
+            "Periodo": "MESES_PARES",
+            "Porcentaje": 40
+          },
+          {
+            "Periodo": "MESES_IMPARES",
+            "Porcentaje": 30
+          }
+        ],
+        "Medios": [
+          {
+            "Medio": "Maritimo",
+            "TiempoRepartoHRS": 21
+          },
+          {
+            "Medio": "Terrestre",
+            "TiempoRepartoHRS": 10
+          },
+          {
+            "Medio": "Aereo",
+            "TiempoRepartoHRS": 0
+          }
+        ]
+      },
+      {
+        "Paqueteria": "DHL",
+        "MargenUtilidad": [
+          {
+            "Periodo": "SEMESTRE_1",
+            "Porcentaje": 50
+          },
+          {
+            "Periodo": "SEMESTRE_2",
+            "Porcentaje": 30
+          }
+        ],
+        "Medios": [
+          {
+            "Medio": "Maritimo",
+            "TiempoRepartoHRS": 20
+          },
+          {
+            "Medio": "Terrestre",
+            "TiempoRepartoHRS": 12
+          },
+          {
+            "Medio": "Aereo",
+            "TiempoRepartoHRS": 3
+          }
+        ]
+      },
+      {
+        "Paqueteria": "Estafeta",
+        "MargenUtilidad": [
+          {
+            "Periodo": "TEMPORADA_BAJA",
+            "Porcentaje": 10
+          },
+          {
+            "Periodo": "TEMPORADA_ALTA",
+            "Porcentaje": 50
+          },
+          {
+            "Periodo": "GENERAL",
+            "Porcentaje": 45
+          }
+        ],
+        "Medios": [
+          {
+            "Medio": "Maritimo",
+            "TiempoRepartoHRS": 0.083 
+          },
+          {
+            "Medio": "Terrestre",
+            "TiempoRepartoHRS": 0.083
+          }
+        ]
+      }
+    ]
+  }
+]
